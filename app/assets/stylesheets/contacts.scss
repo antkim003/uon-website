@@ -1,0 +1,25 @@
+#new_contact {
+
+  .field {
+    
+    label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    textarea {
+      width: 100%;
+    }
+    input {
+      width: 100%;
+    }
+  }
+  .actions {
+
+    text-align: center;
+    input {
+      background: none;
+      border: none;
+
+    }
+  }
+}
